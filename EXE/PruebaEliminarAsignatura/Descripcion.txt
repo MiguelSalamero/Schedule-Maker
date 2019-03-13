@@ -1,0 +1,17 @@
+ELIMINAR ASIGNATURA
+
+En esta prueba comprobaremos si la funcionalidad de eliminar una asignatura funciona como debería. Para ello se ejecuta lo siguiente:
+
+Gestión de titulaciones
+Selecciona fib
+Gestión de asignaturas
+Selecciona so
+Eliminar Asignatura
+
+Comprobamos que la asignatura se elimina correctamente.
+so era una asignatura con un requisito con pro1, así que ejecutamos:
+
+Selecciona pro1
+Gestionar Requisitos
+
+Comprobamos que so ya no está como requisito de pro1, así que funciona correctamente.

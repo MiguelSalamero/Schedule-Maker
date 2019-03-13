@@ -1,0 +1,10 @@
+CONSULTAR ASIGNATURAS:
+
+Esta prueba comprobaremos si la funcionalidad de consultar asignaturas de una titulacion funciona como se espera. Para ello se ejecuta lo siguiente:
+
+Seleccionar Titulaciones en el menu principal.
+Seleccionar la titulacion listada con nombre GRAU1 y pulsar en Consultar Asignaturas.
+
+Nos aparece una nueva pantalla con una lista de todas las asignaturas que pertenecen a la titulacion que habiamos seleccionado.
+
+Podemos ver que la funcionalidad de consultar las asignaturas de una titulacio funciona correctamente.

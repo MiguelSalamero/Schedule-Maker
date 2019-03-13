@@ -1,0 +1,20 @@
+ELIMINAR REQUISITO
+
+En esta prueba comprobaremos si la funcionalidad de eliminar un requisito funciona como debería. Para ello se ejecuta lo siguiente:
+
+Gestión de titulaciones
+Selecciona fib
+Gestión de asignaturas
+Selecciona so
+Gestión de requisitos
+Selecciona pro1
+Eliminar Requisito
+
+Comprobamos que el requisito se elimina correctamente.
+Ahora ejecutamos:
+
+Volver
+Selecciona pro1
+Gestionar Requisitos
+
+Comprobamos que so ya no está como requisito de pro1, así que funciona correctamente.

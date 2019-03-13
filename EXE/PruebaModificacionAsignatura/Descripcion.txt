@@ -1,0 +1,45 @@
+MODIFICACION DE ASIGNATURA
+
+En esta prueba comprobaremos si la funcionalidad de modificación de una asignatura funciona como debería. Para ello se ejecuta lo siguiente:
+
+Gestión de titulaciones
+Selecciona fib
+Gestión de asignaturas
+Selecciona xc
+Modificar Asignatura
+
+Primero intentamos modificarla con espacios en blanco,
+vemos que la ventana de error funciona como debiera.
+
+Luego llenamos la ventana con:
+so
+40
+tercero
+2
+2
+
+Funciona el error de nombrar una asignatura que ya existe.
+
+icom
+40
+tercero
+2
+2
+
+Funciona el error de nombrar una asignatura que ya existe en otra titulación.
+
+xc2
+40
+tercero
+a
+2
+
+Funciona el error de introducir carácteres en campos de dígitos.
+
+xc2
+40
+tercero
+2
+2
+
+Vemos que la asignatura se ha modificado correctamente.

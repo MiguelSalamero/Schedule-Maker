@@ -1,0 +1,27 @@
+MODIFICAR TITULACION:
+
+Esta prueba comprobaremos si la funcionalidad de modificar titulacion funciona como se espera. Para ello se ejecuta lo siguiente:
+
+Seleccionar Titulaciones en el menu principal.
+Seleccionar la titulacion listada con nombre GRAU1 y pulsar el boton Modificar Titulacion.
+
+En la nueva ventana aperece la informacion de la titulacion que hemos seleccionado.
+
+Borramos el nombre.
+Pulsamos confirmar y aparece un mensaje de error: "se debe indicar un nombre para la titulacion".
+
+Borramos la cantidad de Alumnos por grupo de teoria y completamos el campo con "prueba".
+Pulsamos confirmar y aparece un mensaje de error: "solo se aceptan valores positivos como alumnos de teoria y lab"
+
+Borramos la cantidad de Alumnos por grupo de laboratorio y completamos el campo con "prueba".
+Pulsamos confirmar y aparece un mensaje de error: "solo se aceptan valores positivos como alumnos de teoria y lab"
+
+Cambiamos el nombre de la titulacion por GRAU2.
+Pulsamos confirmar y aparece un mensaje de error: "ya existe una titulacion con ese nombre"
+
+Modificamos el nombre de la titulacion por TitulacionModificada.
+Modificamos el valor de alumnos por grupo de teoria por 1.
+Modificamos el valor de alumnos por grupo de laboratorio por 1.
+Pulsamos confirmar y la titulacion, antes llamada GRAU1, se ha modificado con los valores introducidos.
+
+Podemos ver que modificar titulacion funciona correctamente.

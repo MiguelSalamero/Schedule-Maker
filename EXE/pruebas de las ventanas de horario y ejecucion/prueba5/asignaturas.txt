@@ -1,0 +1,4 @@
+par,quinto,90,fib,2,2
+bd,tercero,150,fib,2,2
+ac,cuarto,90,fib,2,2
+eda,tercero,150,fib,2,2

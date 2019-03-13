@@ -1,0 +1,14 @@
+Horario,re
+par,11,0,4,A6102,false
+par,11,0,5,A6102,false
+par,31,0,70,A6102,false
+par,30,0,23,A6102,false
+par,31,0,71,A6102,false
+par,30,0,24,A6102,false
+par,10,0,41,A6102,false
+par,10,0,42,A6102,false
+par,20,0,92,A6102,false
+par,21,0,45,A6102,false
+par,20,0,93,A6102,false
+par,21,0,46,A6102,false
+end

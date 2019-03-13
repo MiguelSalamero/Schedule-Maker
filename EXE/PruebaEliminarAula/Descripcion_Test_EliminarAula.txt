@@ -1,0 +1,10 @@
+ELIMINAR AULA:
+
+Esta prueba comprobaremos si la funcionalidad de eliminar aula funciona como se espera. Para ello se ejecuta lo siguiente:
+
+Seleccionar Aulas en el munu principal.
+Seleccionar la aula listada con nombre AulaPrueba.
+
+Una vez seleccionada, pulsamos el boton Eliminar Aula.
+
+Podemos ver que la titulacion se ha eliminado correctamente.

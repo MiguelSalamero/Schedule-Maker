@@ -1,0 +1,1 @@
+Hemos integrado la clase CtrlDominio de la capa de dominio en el esquema uml de la capa de presentacion. Esto ha sido debido a la limitacion de espacio de un dina4.

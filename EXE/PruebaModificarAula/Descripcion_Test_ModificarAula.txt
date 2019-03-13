@@ -1,0 +1,27 @@
+MODIFICAR AULA:
+
+Esta prueba comprobaremos si la funcionalidad de modificar aula funciona como se espera. Para ello se ejecuta lo siguiente:
+
+Seleccionar Aulas en el munu principal.
+Seleccionar la aula listada con nombre AulaPrueba y pulsar el boton Modificar Aula.
+
+En la nueva ventana aperece la informacion de la aula que hemos seleccionado.
+
+Borramos el nombre.
+Pulsamos confirmar y aparece un mensaje de error: "se debe indicar un nombre para la aula".
+
+Borramos la capacidad de la aula y completamos el campo con "prueba".
+Pulsamos confirmar y aparece un mensaje de error: "solo se aceptan valores positivos como capacidad de aula"
+
+Borramos el campo si tiene ordenadores y lo completamos con "prueba.
+Pulsamos confirmar y aparece un mensaje de error: "solo se acepta si/no para indicar si la aula tiene ordenadores"
+
+Cambiamos el nombre de la titulacion por AulaPrueba2.
+Pulsamos confirmar y aparece un mensaje de error: "ya existe una aula con ese nombre"
+
+Modificamos el nombre de la titulacion por AulaModificada.
+Modificamos el valor de la capacidad por 1.
+Modificamos si tiene ordenadores por si.
+Pulsamos confirmar y la aula, antes llamada AulaPrueba, se ha modificado con los valores introducidos.
+
+Podemos ver que modificar aula funciona correctamente.

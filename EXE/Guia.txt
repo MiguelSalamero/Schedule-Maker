@@ -1,0 +1,4 @@
+Para acceder al programa principal, leer la guia de la carpeta "main".
+
+Para ejecutar los programas de prueba:
+Cada carpeta contiene una descripción del juego de pruebas. Para probarlo, solo se han de sustituir los .txt en cada carpeta por los .txt dentro de main y ejecutar el programa de forma normal. Si se quiere preservar el estado del programa antes de ejecutar la prueba, recomendamos hacer una copia de seguridad de los ficheros .txt originales.

@@ -1,0 +1,20 @@
+ALTA DE AULA:
+
+Esta prueba comprobaremos si la funcionalidad de alta aula funciona como se espera. Para ello se ejecuta lo siguiente:
+
+Seleccionar Aulas en el munu principal.
+Seleccionar Crear Aula.
+
+En la nueva ventana indicamos los campos con: AulaPrueba,60,no
+Pulsamos confirmar y aparece mensaje de error: "aula con ese nombre ya existe".
+
+En la nueva ventana indicamos los campos con: NuevaAula,aaa,no
+Pulsamos confirmar y aparece mensaje de error: "solo se aceptan valores positivos como capacidad de aula".
+
+En la nueva ventana indicamos los campos con: NuevaAula,60,prueba
+Pulsamos confirmar y aparece mensaje de error: "solo se acepta si/no para indicar si la aula tiene ordenadores".
+
+En la nueva ventana indicamos los campos con: NuevaAula,60,si
+Pulsamos confirmar y se crea la nueva aula con los datos NuevaAula,60,si.
+
+Podemos ver que la aula se ha creado correctamente.

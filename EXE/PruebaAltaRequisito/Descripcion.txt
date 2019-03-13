@@ -1,0 +1,29 @@
+ALTA DE REQUISITO
+
+En esta prueba comprobaremos si la funcionalidad de alta de un requisito funciona como debería. Para ello se ejecuta lo siguiente:
+
+Gestión de titulaciones
+Selecciona fib
+Gestión de asignaturas
+Selecciona so
+Gestión de requisitos
+Escribir pro2
+Añadir requisito
+
+Salta un mensaje de error, puesto que pro2 ya es un requisito, funciona correctamente. Ahora ejecutamos:
+
+Escribir icom
+Añadir requisito
+
+La asignatura es de otra titulación y salta un mensaje de error, tal y como esperábamos.
+
+Escribir eee
+Añadir requisito
+
+Vemos que se añade correctamente, ahora comprobamos si en eee también:
+
+Volver
+Selecciona eee
+Gestión de requisitos
+
+Vemos que so se encuentra en la lista de requisitos. La funcionalidad funciona correctamente.

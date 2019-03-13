@@ -1,0 +1,7 @@
+bd,tercero,40,GRAU1,4,4
+ac,cuarto,40,GRAU1,4,4
+eda,tercero,40,GRAU1,4,4
+m1,segundo,40,GRAU1,4,4
+eee,cuarto,40,GRAU1,4,4
+m2,segundo,40,GRAU1,4,4
+ci,tercero,40,GRAU1,4,4

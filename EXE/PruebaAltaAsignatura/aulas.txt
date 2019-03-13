@@ -1,0 +1,15 @@
+A5S106,20,true
+A5S107,20,true
+A5S108,20,true
+A5S109,20,true
+A5S104,20,true
+A5S105,20,true
+A5202,40,false
+A5104,20,false
+A6104,20,false
+A5S110,20,true
+A6002,60,false
+A6202,40,false
+A5002,60,false
+A5102,60,false
+A6102,60,false

@@ -1,0 +1,25 @@
+Descripcion del formato de los ficheros que carga el main:
+
+Asignatura:
+asignatura,curso,alumnos,titulacion,duracionTeoria,DuracionLaboratorio,requisito1,requisito2...
+
+Aulas:
+id,capacidad,tienePC
+
+Fechas:
+id,dia,hora
+
+Titulaciones:
+nombre,maximoalumnosteoria,maximoalumnoslaboratorio
+
+Turnos:
+idgrupo,tipo,duracion,asignatura,alumnos,identificador
+
+Como compilar:
+javac ./domain/*.java
+javac ./domain/domaincontrollers/*.java
+javac ./data/*.java
+javac ./presentation/*.java
+
+Como ejecutar:
+java presentation.main

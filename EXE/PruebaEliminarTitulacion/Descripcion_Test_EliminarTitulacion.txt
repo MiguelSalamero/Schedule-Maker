@@ -1,0 +1,10 @@
+ELIMINAR TITULACION:
+
+Esta prueba comprobaremos si la funcionalidad de eliminar titulacion funciona como se espera. Para ello se ejecuta lo siguiente:
+
+Seleccionar Titulaciones en el menu princial.
+Seleccionar la titulacion listada con nombre "GRAU1".
+
+Una vez seleccionada, pulsamos el boton Eliminar Titulacion.
+
+Podemos ver que la titulacion se ha eliminado correctamente.

@@ -1,0 +1,20 @@
+ALTA DE TITULACION:
+
+Esta prueba comprobaremos si la funcionalidad de alta titulacion funciona como se espera. Para ello se ejecuta lo siguiente:
+
+Seleccionar Titulaciones en el menu principal.
+Seleccionar Crear titulacion.
+
+En la nueva ventana indicamos los campos con: GRAU1,60,30
+Pulsamos confirmar y aparece mensaje de error: "titulacion con ese nombre ya existe".
+
+En la nueva ventana indicamos los campos con: NuevaTitulacion,aaa,20
+Pulsamos confirmar y aparece mensaje de error: "solo se aceptan valores positivos".
+
+En la nueva ventana indicamos los campos con: NuevaTitulacion,60,-2
+Pulsamos confirmar y aparece mensaje de error: "solo se aceptan valores positivos".
+
+En la nueva ventana indicamos los campos con: NuevaTitulacion,60,30
+Pulsamos confirmar y se crea la nueva titulacion con los datos NuevaTitulacion,60,30.
+
+Podemos ver que la titulacion se ha creado correctamente.

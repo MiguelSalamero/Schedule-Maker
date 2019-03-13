@@ -1,0 +1,2 @@
+AulaPrueba,60,false
+AulaPrueba2,60,false
